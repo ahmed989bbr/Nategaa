@@ -12,7 +12,7 @@ function App() {
     <div className="content">
 
       <Routes>
-        <Route path='/' element={<Resalt/>} />
+        <Route path='/*' element={<Resalt/>} />
         <Route path='/upload' element={<Xlec/>} />
       </Routes>
     </div>
