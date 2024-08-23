@@ -8,8 +8,9 @@ function App() {
   return (
     <div className="App">
     <Header />
+        <Resalt/>
     <div className="content">
-    <Resalt/>
+
       <Routes>
         <Route path='/' element={<Resalt/>} />
         <Route path='/upload' element={<Xlec/>} />
