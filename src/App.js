@@ -10,7 +10,7 @@ function App() {
     <Header />
     <div className="content">
       <Routes>
-        <Route path='/Natega' element={<Resalt/>} />
+        <Route path='/' element={<Resalt/>} />
         <Route path='/upload' element={<Xlec/>} />
       </Routes>
     </div>
