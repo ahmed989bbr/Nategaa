@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Nategaa/static/css/main.899deb58.css",
-    "main.js": "/Nategaa/static/js/main.0b4d65aa.js",
+    "main.js": "/Nategaa/static/js/main.27a7b8fd.js",
     "static/media/1.jpeg": "/Nategaa/static/media/1.befce6a53ed37d44a18a.jpeg",
     "index.html": "/Nategaa/index.html",
     "main.899deb58.css.map": "/Nategaa/static/css/main.899deb58.css.map",
-    "main.0b4d65aa.js.map": "/Nategaa/static/js/main.0b4d65aa.js.map"
+    "main.27a7b8fd.js.map": "/Nategaa/static/js/main.27a7b8fd.js.map"
   },
   "entrypoints": [
     "static/css/main.899deb58.css",
-    "static/js/main.0b4d65aa.js"
+    "static/js/main.27a7b8fd.js"
   ]
 }
