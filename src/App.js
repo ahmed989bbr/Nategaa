@@ -9,6 +9,7 @@ function App() {
     <div className="App">
     <Header />
     <div className="content">
+    <Resalt/>
       <Routes>
         <Route path='/' element={<Resalt/>} />
         <Route path='/upload' element={<Xlec/>} />
